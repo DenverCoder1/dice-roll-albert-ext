@@ -20,7 +20,7 @@ The data directories reside in the data directories of the application defined b
 /usr/share/albert/org.albert.extension.python/modules
 ```
 
-Double-clicking on a module in the settings will open the directory in the file manager.
+(Note: Double-clicking on a module in the settings will open the directory in the file manager.)
 
 2. Clone this repository into your `modules` directory.
 
@@ -29,6 +29,10 @@ cd /path/to/modules
 
 git clone https://github.com/DenverCoder1/dice-roll-albert-ext.git
 ```
+
+3. Enable the extension in the settings under `Extensions > Python`.
+
+![settings](https://user-images.githubusercontent.com/20955511/142288778-d6db952e-aaff-4018-a63b-0c8d6aa08447.png)
 
 ## Usage
 
